@@ -1,4 +1,4 @@
-// Cpded by wanz
+// Coded by wanz
 
 #include <iostream> // main library
 
